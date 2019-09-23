@@ -1,3 +1,5 @@
+
+
 The art that inspired my work was the Suprematist Composition by Ukrainian painter Kazimir Malevich in 1916. This art piece is 
 based off Suprematism, an art movement that was active during Vladimir Lenin's reign, the Russian Revolution, as well as during 
 the early days of the Soviet Union. The purpose of Suprematism was to express art in a "supreme and pure" form of abstract art in 
