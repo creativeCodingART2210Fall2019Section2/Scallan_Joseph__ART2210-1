@@ -1,7 +1,7 @@
 var img;
 
 function preload(){
-    img=loadImage("");
+    img=loadImage("https://github.com/creativeCodingART2210Fall2019Section2/Scallan_Joseph__ART2210-1/raw/master/Game/Unknown%20copy.jpeg");
     
 }
 
