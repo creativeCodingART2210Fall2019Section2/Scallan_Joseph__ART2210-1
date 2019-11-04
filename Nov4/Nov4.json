@@ -1,0 +1,35 @@
+{
+    "message": "accurate",
+    "count": 1, 
+    "cod":"200",
+    "list": [{
+        "clouds": {"all":80},
+        "dt":1423501526,
+        "coord":{
+            "lon": -84.456886, 
+            "lat": 39.161999
+            },
+            "id":4508722,
+            "wind":{
+                "speed":9.48,
+                "deg": 354.002
+            },
+            "sys":{"country":"US"},
+            "name":"Cincinnati",
+            "weather":[{
+                "id":803,
+                "icon":"04d",
+                "description": "broken clouds", 
+                "main": "Clouds"
+            }],
+            "main":{
+                "humidity":77,
+                "pressure":999.98,
+                "temp_max":34.16,
+                "sea_level":1028.34,
+                "temp_min":34.16,
+                "temp":34.16,
+                "grnd_level":999.98
+            }
+    }]
+}
