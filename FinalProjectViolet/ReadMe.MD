@@ -1,0 +1,3 @@
+For my final project I decided to make a similar self-portrait to my first project but this time of my dog, Violet. She died of old age a two months ago. I have struggled with a great many things in this course but the one thing I understand completely is the color and the shapes. My goal was to go into more detail with this portrait using more triangles and quads.
+
+[FinalProjectViolet](https://jscal13.github.io/Scallan_Joseph__ART2210-1/FinalProjectViolet/index.html)
